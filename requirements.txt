@@ -1,6 +1,5 @@
-streamlit>=1.37,<2.0
-pandas>=2.2,<3.0
-numpy>=1.26,<3.0
-plotly>=5.22,<6.0
-pyarrow>=16.1
-scikit-learn>=1.5,<2.0
+streamlit==1.41.0
+pandas
+numpy
+plotly
+pyarrow
