@@ -1,0 +1,40 @@
+{
+    "Historical": [
+        "close",
+        "market_cap",
+        "volume",
+        "close_lag1",
+        "close_lag3",
+        "close_lag7",
+        "ma7",
+        "ma14",
+        "ma30",
+        "std7",
+        "std14",
+        "ret_1d",
+        "ret_7d"
+    ],
+    "Sentiment": [
+        "sentiment_mean",
+        "sentiment_pos",
+        "sentiment_neg"
+    ],
+    "Combined": [
+        "close",
+        "market_cap",
+        "volume",
+        "close_lag1",
+        "close_lag3",
+        "close_lag7",
+        "ma7",
+        "ma14",
+        "ma30",
+        "std7",
+        "std14",
+        "ret_1d",
+        "ret_7d",
+        "sentiment_mean",
+        "sentiment_pos",
+        "sentiment_neg"
+    ]
+}
